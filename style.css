@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 740px;
+
+}
+h2{
+    text-transform: capitalize;
+    text-shadow: 2px 2px 4px red;
+}
+h3{
+    text-transform: capitalize;
+    margin: 10px;
+    color: brown;
+    text-shadow: 2px 1px white;
+}
+p{
+    text-transform: capitalize;
+    margin: 10px;
+}
+input{
+    height: 25px;
+    width: 230px;
+    margin: 5px;
+    padding: 5px;
+    margin: 0px;
+    font-size: 20px;
+}
+.main-class{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 400px;
+    width: 300px;
+    margin:30px;
+    border-radius: 8px;
+    border: 1px solid gray;
+    background-color: white;
+}
+.manuu-logo{
+    height: 127px;
+    background-image: url("./manuu-2.jpg");
+    background-size:cover ;
+    background-color: rgb(44, 207, 77);
+    width: 300px;
+    margin-bottom: 40px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+#id-user{
+    margin-top: 15px;
+    border-radius: 6px;
+    border: 1px solid gray;
+    outline: 1px ridge rgb(205, 191, 191);
+    outline-width: thin;
+}
+
+#id-pass{
+    margin-top: 15px;
+    border-radius: 6px;
+    border: 1px solid gray;
+    outline: 1px ridge rgb(205, 191, 191);
+    outline-width: thin;
+}
+#id-but{
+    margin-bottom: 30px;
+    height: 35px;
+    border-radius: 6px;
+    color: white;
+    background-color: rgb(44, 207, 77);
+    border: none;
+    
+}
+#p-red{
+    color: red;
+}
+#p-blue{
+    color: blue;
+   
+}
+body{
+    background-color: rgb(171, 206, 194);
+}
