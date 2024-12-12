@@ -54,6 +54,13 @@ input{
     margin-bottom: 40px;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    color: white;
+    letter-spacing: 7px;
 }
 #id-user{
     margin-top: 15px;
