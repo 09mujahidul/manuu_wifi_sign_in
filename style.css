@@ -39,8 +39,8 @@ input{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    height: 400px;
-    width: 300px;
+    height: 500px;
+    width: 400px;
     margin:30px;
     border-radius: 8px;
     border: 1px solid rgb(129, 216, 135);
