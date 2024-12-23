@@ -40,18 +40,18 @@ input{
     align-items: center;
     flex-direction: column;
     height: 500px;
-    width: 400px;
+    width: 360px;
     margin:30px;
     border-radius: 8px;
     border: 1px solid rgb(129, 216, 135);
     background-color: white;
 }
 .manuu-logo{
-    height: 127px;
+    height: 130px;
     background-image: url("./manuu-2.jpg");
     background-size:cover ;
     background-color: rgb(44, 207, 77);
-    width: 300px;
+    width: 360px;
     margin-bottom: 40px;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
