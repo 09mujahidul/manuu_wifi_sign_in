@@ -45,6 +45,7 @@ input{
     border-radius: 8px;
     border: 1px solid rgb(129, 216, 135);
     background-color: white;
+    border-bottom: 5px rgb(106, 212, 106) solid;
 }
 .manuu-logo{
     height: 130px;
